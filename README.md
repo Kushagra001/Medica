@@ -2,6 +2,8 @@
 
 **Medica** is a modern healthcare clinic website designed for local service providers. Built with Next.js, it emphasizes accessibility, appointment booking, and patient information with a professional healthcare aesthetic.
 
+![Medica Home](./public/home.png)
+
 ## Overview
 
 Medica provides a complete digital presence for local medical services:
