@@ -1,9 +1,10 @@
 {
   "name": "03-medica",
   "version": "0.1.0",
+  "packageManager": "pnpm@10.33.2",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev --webpack",
     "build": "next build",
     "start": "next start",
     "lint": "eslint"
